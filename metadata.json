@@ -1,0 +1,6 @@
+{
+  "name": "VishwaKosh",
+  "description": "A smart gallery app that backs up your photos and videos to Telegram for unlimited cloud storage, complete with search, local storage clean-up, and automated sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
